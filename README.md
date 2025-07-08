@@ -18,6 +18,8 @@ Welcome to **SYNERGY** — a cutting-edge, data-driven smart home energy optimiz
 - **Interactive Dashboard**
   - Enjoy a sleek, real-time web interface (built with Next.js) that visualizes energy data and actionable insights.
   - Multi-language support for global accessibility.
+  - <img width="408" alt="Screenshot 2025-06-15 at 3 02 20 PM" src="https://github.com/user-attachments/assets/340e5349-d293-4dc2-9005-472ad3bddd54" />>
+
 
 - **Smart Assistant Integration**
   - Effortlessly connect with Alexa, Google Home, and other popular smart assistants.
@@ -69,8 +71,11 @@ npm run dev
 ```
 
 ## 📊 Screenshots
+<img width="432" alt="Screenshot 2025-06-15 at 3 03 10 PM" src="https://github.com/user-attachments/assets/7fb6430b-3a3c-4230-829f-8f243e719086" /><br>
+<img width="432" alt="Screenshot 2025-06-15 at 3 02 53 PM" src="https://github.com/user-attachments/assets/0325d82a-1b16-4619-8db5-557f58934cf1" />
 
-> _Insert your dashboard and system screenshots here for maximum impact!_
+
+
 
 ## 📄 License
 
